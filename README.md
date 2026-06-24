@@ -1,5 +1,6 @@
 # SyncWave 🎵💬
 LIVE URL = https://realtime-spotify-clone-ftx5.onrender.com
+
 A modern full-stack music streaming platform inspired by Spotify, featuring seamless music playback, playlist management, and real-time chat functionality. SyncWave combines music discovery with social interaction, allowing users to enjoy and discuss their favorite tracks in one place.
 
 ## 🚀 Features
